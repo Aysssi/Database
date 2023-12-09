@@ -1,2 +1,1 @@
-# Database
- MySql, Spring Data
+MySql, Spring Data
